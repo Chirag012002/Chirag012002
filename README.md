@@ -40,5 +40,5 @@ Now I'm learning every day â€” **and getting closer to my goal step-by-step! ðŸš
 
 ---
 
-![Analytics](https://github.com/Chirag012002/Chirag012002/blob/main/animation.gif)
+![Analytics](https://github.com/Chirag012002/Chirag012002/blob/main/download.gif)
 
