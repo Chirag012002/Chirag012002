@@ -29,13 +29,13 @@ A retail dashboard using Excel, Pivot Tables, Power Query, Slicers & Timeline
 ---
 
 ### 🤝 Let's Connect!
-- 📧 chiragothankar2@gmail.com  
+- 📧 chiraggothankar2@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/chirag-gothankar-7902a9330/) 
 
 ---
 
 ### 📈 Fun Fact:
-I started from scratch in July 2025 and built my first dashboard in 1 week.  
+I started from scratch in June 2025 and built my first dashboard in 1 week.  
 Now I'm learning every day — **and getting closer to my goal step-by-step! 🚀**
 
 ---
