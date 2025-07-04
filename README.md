@@ -15,7 +15,7 @@ Currently on a mission to transform raw data into clean, visual insights 💡�
 ---
 
 ### 📂 My Recent Project:
-🧾 [Excel Sales Dashboard Project](https://github.com/Chirag012002/excel-dashboard-project)  
+🧾 [Excel Sales Dashboard Project](https://github.com/Chirag012002/Excel-Retail-Sales-Dashboard-project)  
 A retail dashboard using Excel, Pivot Tables, Power Query, Slicers & Timeline   
 > Visualized top regions, sales performance & KPIs with interactivity 🎯
 
@@ -35,10 +35,10 @@ A retail dashboard using Excel, Pivot Tables, Power Query, Slicers & Timeline
 ---
 
 ### 📈 Fun Fact:
-I started from scratch in June 2025 and built my first dashboard in 1 week.  
+I started from scratch in July 2025 and built my first dashboard in 1 week.  
 Now I'm learning every day — **and getting closer to my goal step-by-step! 🚀**
 
 ---
 
-![Analytics](https://github.com/Chirag012002/Chirag012002/blob/main/analytics.gif)
+![Analytics](https://github.com/Chirag012002/Chirag012002/blob/main/animation.gif)
 
